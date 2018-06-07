@@ -11,19 +11,12 @@ export default new Router({
 	        component: (resolve) => {
 	            require(["@/view/login/login"], resolve);
 	        }
-	    },
-	    {
-	        path: '/login',
-	        name: 'login',
-	        component: (resolve) => {
-	            require(["@/components/HelloWorld"], resolve);
-	        }
-	    },
+	    }, 
 	    {
 	        path: '/index',
 	        name: 'index',
 	        component: (resolve) => {
-	            require(["@/components/HelloWorld"], resolve);
+	            require(["@/view/login/index"], resolve);
 	        }
 	    }
     ]
