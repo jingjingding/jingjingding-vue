@@ -24,4 +24,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-第一部分冲突
+ 

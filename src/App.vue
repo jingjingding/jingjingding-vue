@@ -20,5 +20,4 @@ export default {
   margin-top: 60px;
 }
 </style>
-第一部分冲突
-
+ 
