@@ -24,4 +24,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-丁静静----丁静静
+丁静静----丁静静阿萨德发
