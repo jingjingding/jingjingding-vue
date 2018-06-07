@@ -24,4 +24,5 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+阿山大饭店
  
